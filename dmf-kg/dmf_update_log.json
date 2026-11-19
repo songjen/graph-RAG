@@ -1,0 +1,39 @@
+{
+  "source_page": "https://www.fda.gov/drugs/drug-master-files-dmfs/list-drug-master-files-dmfs",
+  "current_version": {
+    "quarter": "3rd Quarter 2026",
+    "download_url": "https://www.fda.gov/media/192069/download?attachment",
+    "media_id": "192069",
+    "content_current_as_of": "2026-10-13",
+    "dmf_through": "044931",
+    "download_filename": "List of Drug Master Files (DMFs) 3rd Quarter 2026.xlsx.xlsx",
+    "first_seen": "2026-11-19",
+    "records": 41672
+  },
+  "versions": [
+    {
+      "quarter": "3rd Quarter 2026",
+      "content_current_as_of": "2026-10-13",
+      "dmf_through": "044931",
+      "activated": "2026-11-19",
+      "records": 41672,
+      "holders": 9142,
+      "products": 28007,
+      "links": 41098
+    }
+  ],
+  "checks": [
+    {
+      "date": "2026-11-19",
+      "quarter": "3rd Quarter 2026",
+      "result": "baseline",
+      "note": "建立基线：抓取 FDA 页面确认为 3Q2026，下载并解析 41,672 条 DMF 记录，建成知识图谱。"
+    },
+    {
+      "date": "2026-11-19",
+      "quarter": "3rd Quarter 2026",
+      "result": "no_change",
+      "note": "月度核查：FDA 页面仍为 3rd Quarter 2026，无新季度数据；未改动图谱数据。"
+    }
+  ]
+}
